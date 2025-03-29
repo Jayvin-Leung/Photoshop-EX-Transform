@@ -1,0 +1,30 @@
+.btn-transform {
+  padding: 2px 20px;
+  border: 2px solid black;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.btn-transform-darkest {
+  color: #e1e1e1;
+  background-color: #292929;
+  border-color: #3e3e3e;
+}
+
+.btn-transform-dark {
+  color: #f0f0f0;
+  background-color: #454545;
+  border-color: #5d5d5d;
+}
+
+.btn-transform-gray {
+  color: #0f0f0f;
+  background-color: #d1d1d1;
+  border-color: #a7a7a7;
+}
+
+.btn-transform-white {
+  color: #292929;
+  background-color: #fcfcfc;
+  border-color: #dedede;
+}
